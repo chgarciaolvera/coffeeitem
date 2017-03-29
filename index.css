@@ -9,8 +9,14 @@ h1 {
   color: #FF9900
 }
 
-div p {
+.hi {
   width: 8em;
   height: 4em;
   background-color: #4c1f00;
+}
+
+a {
+  text-decoration: none;
+  color: #FFFFFF;
+  stroke: #FF9900;
 }
