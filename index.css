@@ -15,7 +15,7 @@ h1 {
   background-color: #4c1f00;
 }
 
-a {
+a:link {
   text-decoration: none;
   color: #FFFFFF;
   stroke: orange;
