@@ -1,6 +1,5 @@
 * {
   font-family: Verdana;
-  margin: 5px;
 }
 
 h1 {
@@ -10,7 +9,7 @@ h1 {
   font-family: Lucida Sans Unicode;
 }
 
-.hi {
+.headerbox {
   width: 90em;
   height: 4em;
   background-color: #4c1f00;
@@ -34,3 +33,7 @@ a:hover {
   color: #FFCC99;
 }
 
+#logo {
+  float:left;
+  position:relative;
+}
