@@ -29,3 +29,8 @@ a:visited {
 a:hover {
   color: #FFCC99;
 }
+
+.overbox {
+  position:absolute;
+  z-index: 1;
+}
