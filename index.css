@@ -20,5 +20,9 @@ h1 {
 h1 a:link {
   text-decoration: none;
   color: #FFFFFF;
-  stroke: orange;
+  text-shadow:
+    -1px -1px 0 #000,
+    1px -1px 0 #000,
+    -1px 1px 0 #000,
+    1px 1px 0 #000;
 }
