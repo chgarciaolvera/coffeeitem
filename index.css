@@ -16,6 +16,7 @@ h1 {
   vertical-align: middle;
   position: absolute;
   z-index: -1;
+  margin: 5px 0px 0px 0px
 }
 
 a:link {
