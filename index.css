@@ -23,6 +23,7 @@ h1 {
 a:link {
   text-decoration: none;
   color: orange;
+  font-family: Lucida Sans Unicode;
 }
 
 a:visited {
