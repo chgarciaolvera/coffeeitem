@@ -36,6 +36,7 @@ a:hover {
 #logo {
   float:left;
   position:relative;
+  margin-bottom: 2em;
 }
 
 .options {
