@@ -10,9 +10,10 @@ h1 {
 }
 
 .hi {
-  width: 8em;
-  height: 4em;
+  width: 1000em;
+  height: 1em;
   background-color: #4c1f00;
+  text-align: center;
 }
 
 h1 a:link {
