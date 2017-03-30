@@ -10,13 +10,13 @@ h1 {
 }
 
 .headerbox {
-  width: 90.125em;
+  width: 1431px;
   height: 4em;
   background-color: #4c1f00;
   vertical-align: middle;
   position: absolute;
   z-index: -1;
-  margin: -7px 0px 0px -9px
+  margin: -8px 0px 0px -8px
 }
 
 a:link {
