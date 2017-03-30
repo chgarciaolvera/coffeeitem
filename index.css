@@ -17,7 +17,7 @@ h1 {
   margin: -31px;
 }
 
-h1 a:link {
+a:link {
   text-decoration: none;
   color: #FFFFFF;
 }
