@@ -35,6 +35,7 @@ a:hover {
 
 #logo {
   float:left;
+  position:absolute
 }
 
 .options {
