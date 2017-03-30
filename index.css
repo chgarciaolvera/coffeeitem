@@ -21,8 +21,8 @@ h1 a:link {
   text-decoration: none;
   color: #FFFFFF;
   text-shadow:
-    -1px -1px 0 #FFF,
-    1px -1px 0 #FFF,
-    -1px 1px 0 #FFF,
-    1px 1px 0 #FFF;
+    -1px -1px 0 #FFFFFF,
+    1px -1px 0 #FFFFFF,
+    -1px 1px 0 #FFFFFF,
+    1px 1px 0 #FFFFFF;
 }
