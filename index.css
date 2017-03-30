@@ -11,10 +11,10 @@ h1 {
 
 .hi {
   width: 90em;
-  height: 2em;
+  height: 4em;
   background-color: #4c1f00;
   vertical-align: middle;
-  margin: -30px;
+  margin: -31px;
 }
 
 h1 a:link {
