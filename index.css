@@ -16,7 +16,7 @@ h1 {
   vertical-align: middle;
   position: absolute;
   z-index: -1;
-  margin: -8px 0px 0px -8px
+  margin: -8px 0px 0px -8px;
 }
 
 a:link {
@@ -35,7 +35,8 @@ a:hover {
 
 #logo {
   float:left;
-  position:absolute
+  position:absolute;
+  z-index: 1;
 }
 
 .options {
