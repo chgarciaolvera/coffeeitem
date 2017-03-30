@@ -21,3 +21,8 @@ a:link {
   text-decoration: none;
   color: #FFFFFF;
 }
+
+a:visited {
+  color: #FFFFFF;
+  stroke: orange;
+}
