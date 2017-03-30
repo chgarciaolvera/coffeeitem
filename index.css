@@ -35,7 +35,6 @@ a:hover {
 
 #logo {
   float:left;
-  position: relative;
   z-index: 1;
 }
 
@@ -45,7 +44,6 @@ a:hover {
   padding: 8px 16px 8px 16px;
   border: 1px orange solid;
   display: inline-block;
-  position: relative;
   margin: -5px;
 }
 
