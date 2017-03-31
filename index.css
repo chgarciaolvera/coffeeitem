@@ -20,6 +20,7 @@ h1 {
   display: inline-block;
   margin: -10px 0px 0px 0px;
   z-index: 51;
+  position: fixed;
 }
 
 .options {
@@ -35,6 +36,7 @@ h1 {
   margin: -8px 0px 0px 0px;
   clear: left;
   color: #FFFFFF;
+  position: fixed;
   z-index: 51;
 }
 
