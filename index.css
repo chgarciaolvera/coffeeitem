@@ -11,7 +11,7 @@ h1 {
   background-color: orange;
   vertical-align: middle;
   position: fixed;
-  z-index: -1;
+  z-index: 50;
   margin: -8px 0px 0px -8px;
 }
 
@@ -20,6 +20,7 @@ h1 {
   z-index: 1;
   display: inline-block;
   margin: -10px 0px 0px 0px;
+  z-index: 51;
 }
 
 .options {
@@ -34,7 +35,8 @@ h1 {
   background-color:orange;
   margin: -8px 0px 0px 0px;
   clear: left;
-  color: #FFFFFF
+  color: #FFFFFF;
+  z-index: 51;
 }
 
 .footer {
