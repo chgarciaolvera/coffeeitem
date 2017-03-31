@@ -1,1 +1,17 @@
+* {
+font-family: Verdana;
+}
 
+a:link {
+text-decoration: none;
+color: orange;
+font-family: Lucida Sans Unicode;
+}
+
+a:visited {
+color: orange;
+}
+
+a:hover {
+color: #FFCC99;
+}
