@@ -56,7 +56,7 @@ h1 {
 .list {
   display: inline-block;
   float:right;
-  clear: left;
+  clear: both;
 }
 
 .pad {
