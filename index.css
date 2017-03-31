@@ -33,11 +33,6 @@ h1 {
   clear:left;
 }
 
-.body {
-  clear:both;
-  position:static;
-}
-
 .footer {
   height:48px;
   width:1400px;
@@ -45,6 +40,12 @@ h1 {
   background-color: #FFFFFF;
   clear:both;
 }
+
+.body {
+  clear:both;
+  position:static;
+}
+
 
 .list {
   display:inline;
