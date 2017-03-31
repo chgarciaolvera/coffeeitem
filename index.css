@@ -52,7 +52,6 @@ h1 {
 
 
 .list {
-  float: right;
   display: inline-block;
   clear: right;
 }
