@@ -51,6 +51,7 @@ h1 {
   display: block;
   text-align: right;
   clear: both;
+  position: fixed;
 }
 
 footer {
