@@ -36,6 +36,7 @@ h1 {
   color: #FFFFFF;
   position:fixed;
   z-index: 51;
+  float: right;
 }
 
 .footer {
