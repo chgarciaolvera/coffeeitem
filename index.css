@@ -52,6 +52,7 @@ a:hover {
 
 .body {
   clear:both;
+  position:static;
 }
 
 .footer{
