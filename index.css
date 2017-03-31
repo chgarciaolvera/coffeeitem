@@ -54,6 +54,7 @@ h1 {
 .list {
   display: inline-block;
   text-align: right;
-  position:static;
+  position:fixed;
   z-index: 51;
+  clear: left;
 }
