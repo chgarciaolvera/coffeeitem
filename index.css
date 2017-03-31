@@ -37,6 +37,7 @@ a:hover {
   float:left;
   z-index: 1;
   display:inline-block;
+  margin:-32px;
 }
 
 .options {
