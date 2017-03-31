@@ -8,7 +8,7 @@ h1 {
 .headerbox {
   width: 1440px;
   height: 48px;
-  background-color: #4c1f00;
+  background-color: orange;
   vertical-align: middle;
   position: fixed;
   z-index: -1;
@@ -28,9 +28,10 @@ h1 {
   float: right;
   height: 30px;
   width: 125px;
-  font-size: 16px;
+  font-size: 24px;
   padding: 8px 0px 8px 0px;
-  border: 1px orange solid;
+  border: 0px orange solid;
+  background-color:orange
   margin: -8px 0px 0px 0px;
   clear: left;
 }
