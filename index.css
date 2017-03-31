@@ -44,6 +44,8 @@ h1 {
   display: block;
   position:absolute;
   z-index: -1;
+  margin-top: 48px;
+  margin-bottom: 48px;
 }
 
 
@@ -66,11 +68,6 @@ footer {
   overflow:hidden;
   color: white;
   border-top: 1px orange solid;
-}
-
-body {
-  margin-top: 48px;
-  margin-bottom: 48px;
 }
 
 ul {
