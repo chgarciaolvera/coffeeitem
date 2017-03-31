@@ -52,8 +52,8 @@ h1 {
 
 
 .list {
-  display: inline-block;
-  float:right;
+  display: block;
+  text-align: right;
   clear: both;
 }
 
