@@ -4,14 +4,15 @@ font-family: Verdana;
 
 a:link {
 text-decoration: none;
-color: orange;
+color: white;
 font-family: Lucida Sans Unicode;
 }
 
 a:visited {
-color: orange;
+color: white;
 }
 
 a:hover {
-color: #FFCC99;
+color: white;
+background-color: #FFCC99;
 }
