@@ -34,7 +34,6 @@ h1 {
   background-color:orange;
   margin: -8px 0px 0px 0px;
   color: #FFFFFF;
-  position:fixed;
   z-index: 51;
   float: right;
 }
