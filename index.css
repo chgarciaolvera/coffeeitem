@@ -34,7 +34,7 @@ h1 {
   background-color:orange;
   margin: -8px 0px 0px 0px;
   color: #FFFFFF;
-  position:static;
+  position:fixed;
   z-index: 51;
 }
 
