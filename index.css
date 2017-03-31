@@ -17,7 +17,6 @@ h1 {
 
 #logo {
   float: left;
-  z-index: 1;
   display: inline-block;
   margin: -10px 0px 0px 0px;
   z-index: 51;
@@ -56,5 +55,4 @@ h1 {
 .list {
   display: inline-block;
   float: right;
-  z-index: 1;
 }
