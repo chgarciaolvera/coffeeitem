@@ -71,7 +71,7 @@ body {
 
 ul {
   list-style-type: none;
-  text-align: right;
+  float:right;
 }
 
 li {
