@@ -37,6 +37,7 @@ h1 {
   display: inline-block;
   clear: left;
   position: fixed;
+  float:left;
 }
 
 .footer {
