@@ -57,7 +57,11 @@ footer {
     position: absolute;
     left: 0;
     bottom: 0;
-    height: 100px;
+    height: 48px;
     width: 100%;
     overflow:hidden;
+}
+
+body {
+  margin: 0px 0px 48px;
 }
