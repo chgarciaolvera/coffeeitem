@@ -61,7 +61,6 @@ h1 {
 .pad {
   height: 48px;
   width: 1px;
-  background-color:orange;
+  background-color:blue;
   float:right;
 }
-  position:
