@@ -27,7 +27,7 @@ h1 {
   font-size:16px;
   padding: 8px 16px 8px 16px;
   border: 1px orange solid;
-  display: block;
+  display: inline;
   margin: -6px 0px 0px 0px;
   position: fixed;
   clear:left;
@@ -38,10 +38,14 @@ h1 {
   position:static;
 }
 
-.footer{
+.footer {
   height:48px;
   width:1400px;
   border-top: 1px solid #bbbbbb;
   background-color: #FFFFFF;
   clear:both;
+}
+
+.list {
+  display:inline;
 }
