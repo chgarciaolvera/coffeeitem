@@ -52,8 +52,16 @@ h1 {
 
 .list {
   display: inline-block;
-  text-align: right;
   position:fixed;
+  float:right;
   z-index: 51;
   clear: left;
 }
+
+.pad {
+  height: 48px;
+  width: 1px;
+  background-color:orange;
+  float:right;
+}
+  position:
