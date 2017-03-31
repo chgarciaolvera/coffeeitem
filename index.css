@@ -36,8 +36,6 @@ h1 {
   color: #FFFFFF;
   display: inline-block;
   clear: left;
-  position: fixed;
-  z-index: 52;
 }
 
 .footer {
