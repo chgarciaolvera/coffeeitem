@@ -53,7 +53,7 @@ h1 {
 
 
 .list {
-  display: block;
+  display: inline-block;
   text-align: right;
   clear: both;
 }
