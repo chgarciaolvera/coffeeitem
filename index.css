@@ -24,7 +24,6 @@ h1 {
 }
 
 .options {
-  float:right;
   text-align: center;
   vertical-align: middle;
   height: 32px;
@@ -52,7 +51,9 @@ h1 {
 
 
 .list {
+  float:right;
   display: inline-block;
   position:fixed;
   z-index: 51;
+  clear:left;
 }
