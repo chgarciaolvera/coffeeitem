@@ -50,6 +50,7 @@ h1 {
 
 .body {
   clear: both;
+  display: block;
 }
 
 
