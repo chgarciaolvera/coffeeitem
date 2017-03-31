@@ -35,6 +35,8 @@ h1 {
   margin: -8px 0px 0px 0px;
   color: #FFFFFF;
   display: inline-block;
+  position: fixed;
+  z-index: 51;
 }
 
 .footer {
@@ -52,9 +54,7 @@ h1 {
 
 .list {
   display: inline-block;
-  position:fixed;
   float:right;
-  z-index: 51;
   clear: left;
 }
 
