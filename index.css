@@ -53,6 +53,6 @@ h1 {
 .list {
   float:right;
   display: inline-block;
-  position: fixed;
+  position: absolute;
   z-index: 50;
 }
