@@ -51,7 +51,7 @@ h1 {
 
 
 .list {
-  display: inline;
+  display: inline-block;
   float: right;
   z-index: 1;
 }
