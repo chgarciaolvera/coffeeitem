@@ -53,15 +53,15 @@ h1 {
 }
 
 footer {
-    background-color: #FFCC99;
-    position: absolute;
-    left: 0;
-    bottom: 0;
-    height: 48px;
-    width: 100%;
-    overflow:hidden;
-    color: white;
-    margin: 8px;
+  background-color: #FFCC99;
+  position: absolute;
+  left: 0;
+  bottom: 0;
+  height: 48px;
+  width: 100%;
+  overflow:hidden;
+  color: white;
+  margin: 0px 8px 0px 8px;
 }
 
 body {
