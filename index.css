@@ -55,5 +55,5 @@ h1 {
   display: inline-block;
   position:fixed;
   z-index: 51;
-  clear:left;
+  clear:both;
 }
