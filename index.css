@@ -55,5 +55,5 @@ h1 {
 .list {
   display: inline-block;
   text-align: right;
-  float: right;
+  float: left;
 }
