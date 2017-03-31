@@ -49,6 +49,8 @@ h1 {
 .body {
   clear: both;
   display: block;
+  position:absolute;
+  z-index: -1;
 }
 
 
@@ -56,15 +58,4 @@ h1 {
   display: block;
   text-align: right;
   clear: both;
-}
-
-.pad {
-  margin: -8px 0px 0px 0px;
-  height: 49px;
-  width: 1px;
-  background-color:blue;
-  float:right;
-  position: fixed;
-  z-index: 52;
-  display: inline-block;
 }
