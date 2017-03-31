@@ -23,6 +23,7 @@ h1 {
 }
 
 .options {
+  text-align: right;
   float: right;
   height: 40px;
   width: 80px;
