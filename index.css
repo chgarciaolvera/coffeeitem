@@ -57,7 +57,7 @@ a:hover {
 .footer{
   height:48px;
   width:1400px;
-  border-top: 1px #bbbbbb;
+  border-top: 1px solid #bbbbbb;
   background-color: #FFFFFF;
   clear:both;
 }
