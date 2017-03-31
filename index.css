@@ -17,7 +17,7 @@ h1 {
 
 #logo {
   float: left;
-  display: inline-block;
+  display: block;
   margin: -10px 0px 0px 0px;
   z-index: 51;
   position: fixed;
