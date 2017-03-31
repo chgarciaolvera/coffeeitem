@@ -71,8 +71,9 @@ body {
 
 ul {
   list-style-type: none;
+  text-align: right;
 }
 
 li {
-  float: right;
+  float: left;
 }
