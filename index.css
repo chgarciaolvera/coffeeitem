@@ -67,5 +67,5 @@ h1 {
   float:right;
   position: fixed;
   z-index: 52;
-  display:inline-block;
+  display:inline;
 }
