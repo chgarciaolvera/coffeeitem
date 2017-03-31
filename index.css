@@ -57,4 +57,5 @@ h1 {
 .list {
   display: inline-block;
   float: right;
+  z-index: 51;
 }
