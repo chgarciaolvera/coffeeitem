@@ -29,7 +29,7 @@ h1 {
   border: 1px orange solid;
   display: inline;
   margin: -6px 0px 0px 0px;
-  position: fixed;
+  position: fixed; left:1440;
   clear:left;
 }
 
