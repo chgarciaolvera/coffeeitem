@@ -34,6 +34,8 @@ a:hover {
   margin: -10px 0px 0px 0px;
   z-index: 51;
   position: fixed;
+  color: #FFFFFF;
+  font-family: Lucida-sans-unicode;
 }
 
 .options {
