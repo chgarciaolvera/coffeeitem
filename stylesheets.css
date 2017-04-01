@@ -38,6 +38,11 @@ a:hover {
   font-family: Lucida Sans Unicode;
 }
 
+#logo:hover {
+  background-color:orange;
+}
+  
+
 .options {
   text-align: center;
   vertical-align: middle;
