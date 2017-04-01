@@ -12,7 +12,7 @@ a:visited {
   color: white;
 }
 
-a:hover :not(#logo) {
+a:hover:not(#logo) {
   color: white;
   background-color: #FFCC99;
 }
@@ -37,11 +37,6 @@ a:hover :not(#logo) {
   color: #FFFFFF;
   font-family: Lucida Sans Unicode;
 }
-
-#logo:hover {
-  background-color:orange;
-}
-  
 
 .options {
   text-align: center;
