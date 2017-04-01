@@ -104,7 +104,7 @@ h1:not(#headertitle) {
 
 #headertitle {
   float:left;
-  margin-top: -12;
+  margin-top: -8;
   font-size: 32px;
   color: #FFFFFF
 }
