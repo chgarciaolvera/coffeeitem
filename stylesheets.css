@@ -97,7 +97,7 @@ li {
   float: left;
 }
 
-h1 {
+h1:not(#headertitle) {
   color:orange;
   font-family: Lucida Sans Unicode;
 }
