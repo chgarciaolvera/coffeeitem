@@ -102,7 +102,7 @@ h1 {
   font-family: Lucida Sans Unicode;
 }
 
-.headertitle {
+#headertitle {
   float:left;
   margin-top: -12;
   font-size: 32px;
