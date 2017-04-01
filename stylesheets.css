@@ -103,8 +103,8 @@ h1:not(#headertitle) {
 }
 
 #headertitle {
-  float:left;
-  clear:left;
   font-size: 32px;
-  color: #FFFFFF
+  color: #FFFFFF;
+  top:0%;
+  left:15%;
 }
