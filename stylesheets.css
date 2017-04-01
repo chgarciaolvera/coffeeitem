@@ -31,7 +31,7 @@ a:not(.nofade):hover {
 #logo {
   float: left;
   display: inline-block;
-  margin: -9px 0px 0px 0px;
+  margin: -8px 0px 0px 0px;
   z-index: 51;
   position: fixed;
   color: #FFFFFF;
