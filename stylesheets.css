@@ -12,7 +12,7 @@ a:visited {
   color: white;
 }
 
-a:not(#nofade):hover {
+a:not(.nofade):hover {
   color: white;
   background-color: #FFCC99;
 }
