@@ -101,3 +101,7 @@ h1 {
   color:orange;
   font-family: Lucida Sans Unicode;
 }
+
+h1 #logo {
+  float:left;
+}
