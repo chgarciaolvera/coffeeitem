@@ -77,7 +77,7 @@ a:not(.nofade):hover {
 
 footer {
   background-color: #FFCC99;
-  position: absolute;
+  position: fixed;
   left: 0;
   bottom: 0;
   height: 48px;
