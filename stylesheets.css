@@ -2,17 +2,17 @@
   font-family: Verdana;
 }
 
-a:link {
+.header a:link {
   text-decoration: none;
   color: white;
   font-family: Lucida Sans Unicode;
 }
 
-a:visited {
+.header a:visited {
   color: white;
 }
 
-a:not(.nofade):hover {
+.header a:not(.nofade):hover {
   color: white;
   background-color: #FFCC99;
 }
