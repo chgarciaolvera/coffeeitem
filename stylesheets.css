@@ -64,15 +64,6 @@
   border-top: 1px orange solid;
 }
 
-ul {
-  list-style-type: none;
-  float:right;
-}
-
-li {
-  float: left;
-}
-
 h1:not(#headertitle) {
   color:orange;
   font-family: Lucida Sans Unicode;
@@ -104,11 +95,27 @@ h3 {
   right: 0%;
 }
 
-footer:not(#headertitle) {  
-  color:orange;  
-  font-family: Lucida Sans Unicode;
+footer {  
+  background-color: #FFCC99;
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  height: 48px;
+  width: 100%;
+  overflow:hidden;
+  color: white;
+  border-top:
+  1px orange solid;
 }
 
+ul {
+  list-style-type: none;
+  float:right;
+}
+
+li {
+  float: left;
+}
 #headertitle {
   float:left;
   position:fixed;
