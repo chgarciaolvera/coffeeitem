@@ -52,6 +52,35 @@
   color: #FFFFFF;
   display: inline-block;
   clear: left;
+} {
+  background-color: #FFCC99;
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  height: 48px;
+  width: 100%;
+  overflow:hidden;
+  color: white;
+  border-top: 1px orange solid;
+}
+
+ul {
+  list-style-type: none;
+  float:right;
+}
+
+li {
+  float: left;
+}
+
+h1:not(#headertitle) {
+  color:orange;
+  font-family: Lucida Sans Unicode;
+}
+
+h3 {
+  color:orange;
+  font-family:Lucida Sans Unicode;
 }
 
 .body {
@@ -75,29 +104,8 @@
   right: 0%;
 }
 
-footer {
-  background-color: #FFCC99;
-  position: fixed;
-  left: 0;
-  bottom: 0;
-  height: 48px;
-  width: 100%;
-  overflow:hidden;
-  color: white;
-  border-top: 1px orange solid;
-}
-
-ul {
-  list-style-type: none;
-  float:right;
-}
-
-li {
-  float: left;
-}
-
-h1:not(#headertitle) {
-  color:orange;
+footer:not(#headertitle) {  
+  color:orange;  
   font-family: Lucida Sans Unicode;
 }
 
