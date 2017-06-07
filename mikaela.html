@@ -7,9 +7,10 @@
 	<div class="layout"></div>
 	<script type="text/javascript" src="jquery-1.8.3.js"></script>
 	<script type="text/javascript">
-	   $(function(){
-	      alert("My First Jquery Test");
-	   });
+	function layoutLoad(){
+		$('.layout').load("link.html");
+	};
+	$(document).ready(layoutLoad)
 	</script>
 
 </head>
