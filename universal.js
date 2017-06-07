@@ -1,3 +1,5 @@
-$(document).ready(function(){
-   $('#universal').load("universal.html");
+function layoutLoad(){
+   $('.layout').load("link.html");
 });
+
+$(document).ready(layoutLoad)
