@@ -140,3 +140,7 @@ body a:not(.nofade):hover {
   color: orange;
   background-color: #FFCC99;
 }
+
+body .nofade:hover {
+  color: #FFCC99;
+}
