@@ -3,11 +3,9 @@
 <head>
 	<div class="layout"></div>
 	<title>Mikaela | Christopher Olvera</title>
-	<script type="text/javascript" src="jquery-1.8.3.js"></script>
-	<script type="text/javascript">
-	$('.layout').load("link.html");
-	$(document).ready(layoutLoad)
-	</script>
+	<p>	
+	<?php include("link.html"); ?>
+	</p>
 </head>
 
 <body>
