@@ -1,6 +1,4 @@
-$(document).ready(   
-   function n() {      
+function n() {      
       $('#layout').innerHTML = "Hello!";   
    }     
-   n();   
-);
+   n();
