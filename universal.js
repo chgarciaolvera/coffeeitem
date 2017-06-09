@@ -1,5 +1,5 @@
-$(document).ready(function n() {
-   document.getElementById("layout").innerHTML = "Hello!";
-});
-
-n();
+$(document).ready(
+   function n() {
+      $('#layout').innerHTML = "Hello!";
+      N();
+   });
