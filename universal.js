@@ -1,3 +1,3 @@
 $(function() {
-   $('.layout').load('https://coffeeitem.github.io/link');
+   $(".layout").load("https://coffeeitem.github.io/link");
 });
