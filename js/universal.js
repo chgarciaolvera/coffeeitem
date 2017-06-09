@@ -1,5 +1,3 @@
-function layoutLoad(){
-   $('.layout').load("link.html");
-};
-
-$(document).ready(layoutLoad)
+$(document).ready(function(){
+   $('.layout').load("dev/link.html");
+});
