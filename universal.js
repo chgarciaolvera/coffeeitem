@@ -1,3 +1,3 @@
 $(function() {
-   $('.layout').load("link.html");
+   $('mikaela.html').load('link.html');
 });
