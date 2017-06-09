@@ -141,6 +141,6 @@ body a:not(.nofade):hover {
   background-color: #FFCC99;
 }
 
-body .nofade:hover {
+body .nofade:not(#headertitle):hover {
   color: #FFCC99;
 }
