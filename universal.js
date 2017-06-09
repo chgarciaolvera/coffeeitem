@@ -1,3 +1,6 @@
-$(document).ready(function(){
-   $('.layout').load("link.html");
-});
+$(document).ready(   
+   function n() {      
+      $('#layout').innerHTML = "Hello!";   
+   }     
+   n();   
+);
