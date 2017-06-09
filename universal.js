@@ -1,1 +1,1 @@
-document.getElementById("layout").innerHTML = "New text!";
+document.getElementById("layout").innerHTML = 'hi there'
