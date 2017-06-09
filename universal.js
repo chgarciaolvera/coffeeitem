@@ -1,3 +1,3 @@
 $(document).ready(function(){
-   $('.layout').load("dev/link.html");
+   $('.layout').load("link.html");
 });
