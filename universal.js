@@ -1,5 +1,5 @@
-function loadLayout() {
-   $(".layout").load("https://coffeeitem.github.io/link");
-});
+function n() {
+   document.getElementById("layout").innerHTML = "Hello!";
+}
 
-loadLayout();
+n();
