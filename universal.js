@@ -1,7 +1,1 @@
-$(document).ready(
-   function n() {
-      $('#layout').innerHTML = "Hello!";
-   }
-   
-   n();
-   );
+document.getElementById("layout").innerHTML = "New text!";
