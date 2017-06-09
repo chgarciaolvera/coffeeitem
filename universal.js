@@ -1,3 +1,3 @@
-if myElement.innerHTML !== null {
-  document.getElementById("layout").innerHTML = myElement.innerHTML;
-}
+$(document).ready(function(){
+   $('.layout').load("link.html");
+});
