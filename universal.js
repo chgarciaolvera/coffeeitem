@@ -1,5 +1,5 @@
 $(document).ready(function() {
 
-$("#layout").load('layout.html');
+$("#signal").load('layout.html');
 
 });
