@@ -144,7 +144,3 @@ body a:not(.nofade):hover {
 body .nofade:not(#headertitle):hover {
   color: #FFCC99;
 }
-
-#signal {
-  display: none;
-}
