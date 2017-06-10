@@ -145,6 +145,6 @@ body .nofade:not(#headertitle):hover {
   color: #FFCC99;
 }
 
-p #signal {
+#signal {
   display: none;
 }
