@@ -1,4 +1,5 @@
-function n() {      
-      $('#layout').innerHTML = "Hello!";   
-   }     
-   n();
+$(document).ready(function() {
+
+$(".layout").load('layout.html');
+
+});
