@@ -147,5 +147,6 @@ body .nofade:not(#headertitle):hover {
 }
 
 #signal {
-  display:none;
+  position: fixed;
+  top: 0%;
 }
