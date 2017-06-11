@@ -149,5 +149,5 @@ body .nofade:not(#headertitle):hover {
 }
 
 #signal {
- 
+ position: absolute;
 }
