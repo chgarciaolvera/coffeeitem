@@ -149,7 +149,7 @@ body .nofade:not(#headertitle):hover {
 
 #signal {
   position: absolute;
-  margin-top: -8px;
+  top: 100%;
 }
 
 body {
