@@ -109,6 +109,7 @@ footer {
   color: white;
   border-top:
   1px orange solid;
+  clear: both;
 }
 
 ul {
