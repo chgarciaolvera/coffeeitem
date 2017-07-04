@@ -23,7 +23,7 @@
   background-color: orange;
   vertical-align: middle;
   position: fixed;
-  z-index: 50;
+  z-index: 25;
   top: 0;
   left: 0;
 }
@@ -53,6 +53,7 @@
   color: #FFFFFF;
   display: inline-block;
   clear: left;
+  z-index: 26;
 } 
 .footer {
   background-color: #FFCC99;
