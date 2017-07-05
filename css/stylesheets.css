@@ -23,7 +23,6 @@
   background-color: orange;
   vertical-align: middle;
   position: fixed;
-  z-index: 25;
   top: 0;
   left: 0;
 }
@@ -32,7 +31,6 @@
   float: left;
   display: inline-block;
   margin-top: -32px;
-  z-index: 51;
   position: fixed;
   color: #FFFFFF;
   font-family: Lucida Sans Unicode;
@@ -53,7 +51,6 @@
   color: #FFFFFF;
   display: inline-block;
   clear: left;
-  z-index: 26;
 } 
 .footer {
   background-color: #FFCC99;
@@ -65,7 +62,6 @@
   overflow:hidden;
   color: white;
   border-top: 1px orange solid;
-  z-index: -2;
 }
 
 h1:not(#headertitle) {
@@ -115,12 +111,10 @@ footer {
 ul {
   list-style-type: none;
   float:right;
-  z-index: 26;
 }
 
 li {
   float: left;
-  z-index: 26;
 }
 #headertitle {
   float:left;
@@ -130,7 +124,6 @@ li {
   top:0%;
   left:15%;
   margin:4px 0px 0px 48px;
-  z-index: 50;
 }
 
 body a:link {
@@ -159,6 +152,5 @@ body .nofade:not(#headertitle):hover {
 }
 
 body {
-  z-index: -2;
   margin-bottom: 48px;
 }
