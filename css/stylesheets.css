@@ -115,10 +115,12 @@ footer {
 ul {
   list-style-type: none;
   float:right;
+  z-index: 26;
 }
 
 li {
   float: left;
+  z-index: 26;
 }
 #headertitle {
   float:left;
