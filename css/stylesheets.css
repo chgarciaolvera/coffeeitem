@@ -22,11 +22,9 @@
   float: left;
   display: inline-block;
   position: fixed;
-  color: #FFFFFF;
-  font-family: Lucida Sans Unicode;
   left: 15%;
-  font-size: 32px;
   top: 100%;
+  margin-top: -48px;
 }
 
 .options {
