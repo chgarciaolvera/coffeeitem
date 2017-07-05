@@ -132,7 +132,7 @@ footer {
   width: 100%;
   overflow:hidden;
   color: white;
-  border-top:
-  1px orange solid;
+  border-top: 1px orange solid;
   clear: both;
+  z-index: -2;
 }
