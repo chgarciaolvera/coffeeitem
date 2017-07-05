@@ -2,19 +2,10 @@
   font-family: Verdana;
 }
 
-.header a:link {
-  text-decoration: none;
-  color: white;
-  font-family: Lucida Sans Unicode;
-}
-
-.header a:visited {
-  color: white;
-}
-
-.header a:not(.nofade):hover {
-  color: white;
-  background-color: #FFCC99;
+#signal {
+  position: absolute;
+  top: 0%;
+  margin-top: 32px;
 }
 
 .headerbox {
@@ -52,38 +43,33 @@
   display: inline-block;
   clear: left;
 } 
-.footer {
-  background-color: #FFCC99;
-  position: fixed;
-  left: 0;
-  bottom: 0%;
-  height: 48px;
-  width: 100%;
-  overflow:hidden;
-  color: white;
-  border-top: 1px orange solid;
-}
 
-h1:not(#headertitle) {
-  color:orange;
-  font-family: Lucida Sans Unicode;
-}
-
-h3 {
-  color:orange;
-  font-family:Lucida Sans Unicode;
-}
-
-.body {
+.list {
+  display: inline-block;
+  text-align: right;
   clear: both;
-  display: block;
-  position:absolute;
-  margin-top: 48px;
-  margin-bottom: 48px;
-  margin-right: 72px;
-  margin-left: 72px;
-}* {
-  font-family: Verdana;
+  position:fixed;
+  top: -8px;
+  right: 0%;
+}
+
+ul {
+  list-style-type: none;
+  float:right;
+}
+
+li {
+  float: left;
+}
+
+#headertitle {
+  float:left;
+  position:fixed;
+  font-size: 32px;
+  color: #FFFFFF;
+  top:0%;
+  left:15%;
+  margin:4px 0px 0px 48px;
 }
 
 .header a:link {
@@ -101,54 +87,6 @@ h3 {
   background-color: #FFCC99;
 }
 
-.headerbox {
-  width: 100%;
-  height: 48px;
-  background-color: orange;
-  vertical-align: middle;
-  position: fixed;
-  top: 0;
-  left: 0;
-  z-index: -1;
-}
-
-#logo {
-  float: left;
-  display: inline-block;
-  margin-top: -32px;
-  position: fixed;
-  color: #FFFFFF;
-  font-family: Lucida Sans Unicode;
-  left: 15%;
-  font-size: 32px;
-}
-
-.options {
-  text-align: center;
-  vertical-align: middle;
-  height: 32px;
-  width: 150px;
-  font-size: 24px;
-  padding: 8px 0px 8px 0px;
-  border: 0px orange solid;
-  background-color:orange;
-  margin: -8px 0px 0px 0px;
-  color: #FFFFFF;
-  display: inline-block;
-  clear: left;
-} 
-.footer {
-  background-color: #FFCC99;
-  position: fixed;
-  left: 0;
-  bottom: 0%;
-  height: 48px;
-  width: 100%;
-  overflow:hidden;
-  color: white;
-  border-top: 1px orange solid;
-}
-
 h1:not(#headertitle) {
   color:orange;
   font-family: Lucida Sans Unicode;
@@ -159,7 +97,7 @@ h3 {
   font-family:Lucida Sans Unicode;
 }
 
-.body {
+body {
   clear: both;
   display: block;
   position:absolute;
@@ -167,148 +105,38 @@ h3 {
   margin-bottom: 48px;
   margin-right: 72px;
   margin-left: 72px;
-}
-
-
-.list {
-  display: inline-block;
-  text-align: right;
-  clear: both;
-  position:fixed;
-  top: -8px;
-  right: 0%;
-}
-
-footer {  
-  background-color: #FFCC99;
-  position: fixed;
-  left: 0;
-  bottom: 0;
-  height: 48px;
-  width: 100%;
-  overflow:hidden;
-  color: white;
-  border-top:
-  1px orange solid;
-  clear: both;
-}
-
-ul {
-  list-style-type: none;
-  float:right;
-}
-
-li {
-  float: left;
-}
-
-#headertitle {
-  float:left;
-  position:fixed;
-  font-size: 32px;
-  color: #FFFFFF;
-  top:0%;
-  left:15%;
-  margin:4px 0px 0px 48px;
-}
-
-body a:link {
-  text-decoration: none;
-  color: orange;
-  font-family: Lucida Sans Unicode;
-}
-
-body a:visited {
-  color: orange;
-}
-
-body a:not(.nofade):hover {
-  color: orange;
-  background-color: #FFCC99;
-}
-
-body .nofade:not(#headertitle):hover {
-  color: #FFCC99;
-}
-
-#signal {
-  position: absolute;
-  top: 0%;
-  margin-top: 32px;
-}
-
-body {
-  margin-bottom: 48px;
-}
-
-.list {
-  display: inline-block;
-  text-align: right;
-  clear: both;
-  position:fixed;
-  top: -8px;
-  right: 0%;
-}
-
-footer {  
-  background-color: #FFCC99;
-  position: fixed;
-  left: 0;
-  bottom: 0;
-  height: 48px;
-  width: 100%;
-  overflow:hidden;
-  color: white;
-  border-top:
-  1px orange solid;
-  clear: both;
-}
-
-ul {
-  list-style-type: none;
-  float:right;
-}
-
-li {
-  float: left;
-}
-
-#headertitle {
-  float:left;
-  position:fixed;
-  font-size: 32px;
-  color: #FFFFFF;
-  top:0%;
-  left:15%;
-  margin:4px 0px 0px 48px;
-}
-
-body a:link {
-  text-decoration: none;
-  color: orange;
-  font-family: Lucida Sans Unicode;
-}
-
-body a:visited {
-  color: orange;
-}
-
-body a:not(.nofade):hover {
-  color: orange;
-  background-color: #FFCC99;
-}
-
-body .nofade:not(#headertitle):hover {
-  color: #FFCC99;
-}
-
-#signal {
-  position: absolute;
-  top: 0%;
-  margin-top: 32px;
-}
-
-body {
-  margin-bottom: 48px;
   z-index: -2;
+}
+
+body a:link {
+  text-decoration: none;
+  color: orange;
+  font-family: Lucida Sans Unicode;
+}
+
+body a:visited {
+  color: orange;
+}
+
+body a:not(.nofade):hover {
+  color: orange;
+  background-color: #FFCC99;
+}
+
+body .nofade:not(#headertitle):hover {
+  color: #FFCC99;
+}
+
+footer {  
+  background-color: #FFCC99;
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  height: 48px;
+  width: 100%;
+  overflow:hidden;
+  color: white;
+  border-top:
+  1px orange solid;
+  clear: both;
 }
