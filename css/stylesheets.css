@@ -125,7 +125,6 @@ body .nofade:not(#headertitle):hover {
 
 footer {  
   background-color: #FFCC99;
-  position: fixed;
   left: 0;
   bottom: 0;
   height: 48px;
@@ -134,5 +133,4 @@ footer {
   color: white;
   border-top: 1px orange solid;
   clear: both;
-  z-index: -2;
 }
