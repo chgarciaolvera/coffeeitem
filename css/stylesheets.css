@@ -101,6 +101,7 @@ body {
   margin-right: 72px;
   margin-left: 72px;
   z-index: -2;
+  padding-bottom: 48px;
 }
 
 body a:link {
