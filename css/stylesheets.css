@@ -74,7 +74,7 @@ li {
 .header a:visited {
   color: white;
 }
-.header a:not(.nofade):hover {
+.header a:hover {
   color: white;
   background-color: #FFCC99;
 }
