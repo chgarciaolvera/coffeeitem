@@ -93,7 +93,7 @@ body {
   clear: both;
   display: block;
   position:absolute;
-  margin-top: 48px 72px 48px 72px;
+  margin: 48px 72px 48px 72px;
   z-index: -2;
   padding-bottom: 48px;
 }
