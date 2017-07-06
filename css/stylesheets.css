@@ -75,6 +75,10 @@ li {
   color: white;
 }
 
+.header a:hover {
+  color: white;
+}
+
 h1:not(#headertitle) {
   color:orange;
   font-family: Lucida Sans Unicode;
@@ -124,8 +128,4 @@ footer {
   color: white;
   border-top: 1px orange solid;
   clear: both;
-}
-
-.header a:hover {
-  color: white;
 }
