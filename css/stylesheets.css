@@ -74,10 +74,6 @@ li {
 .header a:visited {
   color: white;
 }
-.header a:hover {
-  color: white;
-  background-color: #FFCC99;
-}
 
 h1:not(#headertitle) {
   color:orange;
